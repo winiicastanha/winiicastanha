@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/winiicastanha">
   <img widht:"42%" height="170em" src="https://github-readme-stats.vercel.app/api?username=winiicastanha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  width="42%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winiicastanha&hide=c%2B%2B,java,ruby,starlark,objective%2DC,makefile,objective%2Dc%2B%2B&layout=compact&langs_count=5&theme=tokyonight"/>
+  <img  width="42%" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winiicastanha&hide=c%2B%2B,java,ruby,starlark,objective%2DC,makefile,objective%2Dc%2B%2B&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
