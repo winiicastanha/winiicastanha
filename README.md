@@ -17,3 +17,7 @@
     <img align="center" alt="Wini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </div>
+  
+   #
+  [![Linkedin Badge](https://img.shields.io/badge/-Wincius%20Castanha-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/winiciuscastanha//)](https://www.linkedin.com/in/winiciuscastanha/)
+
