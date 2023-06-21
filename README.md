@@ -1,8 +1,7 @@
 ### Olá!! Eu sou o Winicius Castanha
 
 
-- 🌱 I’m currently learning HTML5, CSS3, Javascript and Others
-- 🤔 I’m looking for help with my studies
+- 💻 I’m currently Working with FlutterFlow and Bubble
 
 <div align="center">
   <a href="https://github.com/winiicastanha">
