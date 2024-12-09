@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Winicius Castanha
 
 
-- 💻 I’m currently Working with FlutterFlow and Bubble
+- 💻 I’m currently Working with FlutterFlow. And also studying HTML, CSS, Javascript.
 
 <div align="center">
   <a href="https://github.com/winiicastanha">
